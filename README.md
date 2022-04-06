@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mhtafhim
+- 🏫 CS Student 
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Web development and c programming
+- 🌱 I’m currently learning Software development...
 - 📫 You can reach me on facebook.com/mhtafhim
 
 <!---
