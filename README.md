@@ -2,6 +2,7 @@
 - 🏫 CS Student 
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Software development...
+- 👨‍💻 I'm currently also doing Competitive Programming ...
 - 📫 You can reach me on facebook.com/mhtafhim
 
 <!---
