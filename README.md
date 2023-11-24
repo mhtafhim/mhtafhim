@@ -34,12 +34,9 @@
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhtafhim&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhtafhim&theme=vision_friendly_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhtafhim&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhtafhim&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhtafhim&theme=vision_friendly_dark&utcOffset=8)
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
