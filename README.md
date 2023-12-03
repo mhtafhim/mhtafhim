@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mhtafhim
 - 🏫 CS Student 
 - 👀 I’m interested in Tech
-- 🌱 I’m currently doing research...
-- 👨‍💻 I'm currently also doing Competitive Programming ...
+- 👨‍💻 I’m currently doing research and Competitive Programming...
 - 📫 You can reach me on facebook.com/mhtafhim
 
 
