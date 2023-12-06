@@ -30,17 +30,16 @@
 
 ## Github Stats
 <div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhtafhim&theme=vision_friendly_dark)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhtafhim&theme=vision_friendly_dark)
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhtafhim&theme=dracula&card_width=700)](https://git.io/streak-stats)
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
