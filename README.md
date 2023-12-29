@@ -9,7 +9,7 @@
 
 
 
-<a href="https://mhtafhim.github.io">
+<a href="https://mhtafhim.github.io/portfolio">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/mh_tafhim/">
+<a href="https://www.linkedin.com/in/mh-tafhim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
