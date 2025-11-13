@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmud Haque Tafhim
+# 👋 Hi, I'm Mahmudul Haque Tafhim
 
 **Software Engineer @ Frontier Semiconductor**
 
