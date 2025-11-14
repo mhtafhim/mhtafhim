@@ -5,7 +5,7 @@
 ---
 
 ### 📍 About Me
-Passionate software engineer with expertise in **C++** and a strong foundation in **data structures**, **algorithms**. Specialized in performance optimization, competitive programming, and semiconductor software solutions.
+Software engineer with expertise in **C++** and a strong foundation in **data structures**, **algorithms**. Work on performance optimization, competitive programming, and semiconductor software solutions.
 
 ---
 
