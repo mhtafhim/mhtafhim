@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Deep Reinforcement Learning for Traffic Optimization",
+      "slug": "drl-traffic-optimization",
+      "excerpt": "How I used DRL to optimize urban traffic management and reduce congestion with intelligent algorithms.",
+      "content": "## Introduction\nTraffic congestion is a major problem in urban areas, leading to wasted time, increased pollution, and economic losses. In my thesis project, I explored how Deep Reinforcement Learning (DRL) can be used to optimize traffic management systems.\n\n## The Challenge\nTraditional traffic management systems use fixed timing for traffic lights, which doesn't adapt to real-time traffic conditions. This is where DRL comes in - it can learn optimal policies by interacting with the environment.\n\n## My Approach\nI implemented and benchmarked two DRL agents:\n\n## Deep Q-Network (DQN)\nDQN uses a neural network to approximate the Q-values of different actions. It learns through experience replay and target networks.\n\n## Deep Transformer Q-Network (DTQN)\nDTQN enhances DQN with transformer architectures to better handle temporal dependencies in traffic patterns.\n\n## Results\nThe DTQN model consistently outperformed traditional algorithms:\n- 15% improvement in traffic flow\n- 12% reduction in average waiting time\n- Better adaptation to peak hours\n\n## Implementation Details\nUsed SUMO (Simulation of Urban Mobility) environment for realistic traffic simulation. Trained agents on 100+ different road configurations.\n\n## Key Learnings\n1. Temporal patterns matter in traffic\n2. Transformer architectures help model traffic dynamics\n3. Real-world deployment requires careful reward engineering\n4. Data quality directly impacts learning efficiency\n\n## Future Work\nIntegrating with real traffic sensors and expanding to multi-intersection scenarios.",
+      "author": "Mahmudul Haque",
+      "date": "2024-11-12",
+      "category": "AI/ML",
+      "tags": ["DRL", "Reinforcement Learning", "Traffic", "Research"],
+      "readTime": 12
+    },
+    {
+      "id": 2,
+      "title": "Mastering Competitive Programming: From Beginner to Pupil",
+      "slug": "competitive-programming-journey",
+      "excerpt": "My journey to achieve Pupil rating on Codeforces and 3-Star on CodeChef. Tips, strategies, and lessons learned.",
+      "content": "## My Competitive Programming Journey\nStarting from zero knowledge to achieving Pupil rating on Codeforces and 3-Star on CodeChef required dedication, strategy, and consistent practice. Here's my story and the strategies that worked.\n\n## Stage 1: Foundation Building (First 3 Months)\nWhen I started, I could barely solve simple problems. I focused on:\n\n## Learning Data Structures\n- Arrays and Strings\n- Stacks and Queues\n- Linked Lists\n- Trees and Graphs\n\nPracticed 50+ problems per data structure to build muscle memory.\n\n## Stage 2: Algorithm Mastery (Months 4-8)\nOnce comfortable with data structures, I moved to algorithms:\n\n## Key Algorithms Learned\n- Sorting and Searching\n- Dynamic Programming basics\n- Graph Algorithms (DFS, BFS)\n- Binary Search\n- Greedy Algorithms\n\nI solved problems on different platforms:\n- LeetCode for variety\n- Codeforces for difficulty progression\n- CSES for classical problems\n\n## Stage 3: Speed and Optimization (Months 9-12)\nWith solid fundamentals, focus shifted to speed:\n\n## Speed Techniques\n1. Template preparation - Pre-written code for common patterns\n2. Quick pattern recognition - Identify problem type within seconds\n3. Fast implementation - Code without overthinking\n4. Efficient debugging - Spot logical errors quickly\n\n## Time Management in Contests\nIn live contests, managing the 2-hour window is crucial:\n- Spend 10 mins reading and understanding\n- Spend 15 mins on approach and planning\n- Spend 30 mins coding\n- Spend 5 mins testing with examples\n\n## My Contest Stats\n- Solved 700+ problems across platforms\n- Current Codeforces Rating: 1263 (Pupil)\n- Current CodeChef Rating: 1542 (3-Star)\n- LeetCode: 120+ problems\n\n## Key Insights\n\n## Insight 1: Practice with Purpose\nDon't just solve problems randomly. Target weak areas and practice systematically.\n\n## Insight 2: Learn from Mistakes\nWhen you fail, study the editorial and understand the solution deeply. This prevents repeated mistakes.\n\n## Insight 3: Compete Regularly\nParticipate in contests even when you feel unprepared. The experience is invaluable.\n\n## Insight 4: Balance is Important\nDon't burn out. Mix hard problems with easy ones to maintain motivation.\n\n## Resources That Helped\n- Codeforces - Excellent for live contests\n- LeetCode - Great categorization and variety\n- CSES - Classical algorithms\n- CodeChef - Good difficulty progression\n\n## Advice for Beginners\n1. Start with easy problems on LeetCode\n2. Build strong fundamentals in DSA\n3. Don't skip implementation details\n4. Compete regularly to test yourself\n5. Join competitive programming communities\n6. Read solutions and understand them\n\n## Current Goals\n- Reach Specialist on Codeforces (1400+ rating)\n- Improve on harder algorithms\n- Participate in more contests\n- Help beginners through my experience\n\n## Conclusion\nCompetitive programming is a journey, not a destination. The skills you learn - problem-solving, algorithmic thinking, and persistence - are valuable beyond coding contests.",
+      "author": "Mahmudul Haque",
+      "date": "2024-11-10",
+      "category": "Programming",
+      "tags": ["Competitive Programming", "Algorithms", "DSA", "Learning"],
+      "readTime": 15
+    }
+  ]
+}

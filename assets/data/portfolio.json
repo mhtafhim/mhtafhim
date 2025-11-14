@@ -1,0 +1,144 @@
+{
+  "personalInfo": {
+    "name": "Mahmudul Haque",
+    "title": "Software Engineer",
+    "subtitle": "Building high-performance systems and solving complex problems",
+    "location": "Rampura, Dhaka, Bangladesh",
+    "email": "mahmudulhoquetafhim@gmail.com",
+    "phone": "+880 1571 472497",
+    "bio": "Passionate software engineer with expertise in C++ and a strong foundation in data structures, algorithms, and system design. Specialized in performance optimization, competitive programming, and semiconductor software solutions."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Frontier Semiconductor (FSM)",
+      "title": "Software Engineer",
+      "duration": "Nov 2025 - Present",
+      "location": "Dhaka, Bangladesh",
+      "workMode": "On-site",
+      "description": "Developing high-performance systems in C++ and MFC. Working on semiconductor software solutions.",
+      "skills": ["C++", "MFC"]
+    },
+    {
+      "id": 2,
+      "company": "US-Bangla Airlines Ltd.",
+      "title": "Executive - Business Analyst",
+      "duration": "Sep 2025 - Nov 2025",
+      "location": "Dhaka, Bangladesh",
+      "workMode": "On-site",
+      "description": "Analyzed business requirements and created wireframes for airline management systems.",
+      "skills": ["Wireframing", "Requirements Analysis"]
+    }
+  ],
+  "education": {
+    "institution": "Ahsanullah University of Science and Technology",
+    "degree": "BSc in Computer Science and Engineering",
+    "duration": "Jun 2021 - Jun 2025",
+    "gpa": "3.719/4.00",
+    "coursework": [
+      "Data Structure",
+      "Algorithms",
+      "Discrete Math",
+      "Information System Design and Software Engineering",
+      "Data Analytics",
+      "Cloud Computing"
+    ]
+  },
+  "skills": {
+    "languages": ["C/C++", "Java", "Python", "JavaScript"],
+    "databases": ["MySQL", "MSSQL", "Firebase"],
+    "cloud": ["AWS EC2", "AWS S3"],
+    "tools": ["Git", "Postman", "Linux CLI"],
+    "specializations": ["Data Structures", "Algorithms", "OOP", "System Design", "Performance Optimization"],
+    "aiml": ["ML Algorithms", "Neural Networks", "NumPy", "Pandas", "Scikit-learn", "PyTorch", "Keras", "PySpark"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "EasyMart",
+      "description": "Implemented inventory control and sales tracking with dual interfaces for management and sales executives following OOP principles.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Java", "Swing", "Apache Derby"],
+      "link": "https://github.com/mhtafhim/easy-mart",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "SonicTheHedgeHog",
+      "description": "Designed a 2D platformer featuring obstacle detection, enemy avoidance, and jump mechanics for engaging gameplay.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["C++", "OpenGL"],
+      "link": "https://github.com/mhtafhim/SonicTheHedgeHog",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Railway eService",
+      "description": "Developed a full-stack railway ticketing service with RESTful ASP.NET backend and React frontend for real-time train tracking.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["React", "ASP.NET", "C#"],
+      "link": "#",
+      "featured": true
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "1st Place - Intra AUST Programming Contest",
+      "description": "Fall 2022 - Among 100+ teams",
+      "icon": "🥇"
+    },
+    {
+      "id": 2,
+      "title": "1st Place - Intra AUST Programming Contest",
+      "description": "Spring 2023 - Among 100+ teams",
+      "icon": "🥇"
+    },
+    {
+      "id": 3,
+      "title": "Full-Funded Scholarship",
+      "description": "100% Scholarship for Undergraduate - Top 3% recipients",
+      "icon": "🎓"
+    },
+    {
+      "id": 4,
+      "title": "Prestigious Scholarship",
+      "description": "Khondaker Ahmed Muktadir & Mosammat Khodeza Begum - Only 2 students awarded",
+      "icon": "🎖️"
+    },
+    {
+      "id": 5,
+      "title": "NUMO 2023 Participant",
+      "description": "National Undergraduate Mathematics Olympiad 2023",
+      "icon": "📊"
+    }
+  ],
+  "competitiveProgramming": [
+    {
+      "platform": "LeetCode",
+      "achievement": "120+ Problems Solved",
+      "link": "https://leetcode.com/u/mahmudulhoquetafhim"
+    },
+    {
+      "platform": "CodeChef",
+      "achievement": "3-Star (Rating: 1542)",
+      "link": "https://www.codechef.com/users/mhtafhim"
+    },
+    {
+      "platform": "Codeforces",
+      "achievement": "Pupil (Rating: 1263)",
+      "link": "https://codeforces.com/profile/depressed_kiddo"
+    },
+    {
+      "platform": "Others (CSES, etc)",
+      "achievement": "700+ Problems Solved",
+      "link": "https://github.com/mhtafhim/Messy-Stuffs"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/mhtafhim",
+    "linkedin": "https://www.linkedin.com/in/mh-tafhim/",
+    "email": "mailto:mahmudulhoquetafhim@gmail.com",
+    "portfolio": "https://mhtafhim.github.io/portfolio"
+  }
+}

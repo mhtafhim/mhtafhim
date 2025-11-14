@@ -1,6 +1,6 @@
 # 👋 Mahmudul Haque
 
-**Software Engineer @ Frontier Semiconductor** | Problem Solver | Algorithm Enthusiast
+**Software Engineer @ Frontier Semiconductor** | Problem Solver | Tech Enthusiast
 
 ---
 
@@ -20,7 +20,6 @@ Passionate software engineer with expertise in **C++** and a strong foundation i
 [![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://mhtafhim.github.io/cv)
 
 </div>
-
 
 ---
 
