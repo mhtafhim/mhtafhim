@@ -1,80 +1,112 @@
-# 👋 Hi, I'm Mahmudul Haque Tafhim
+# 👋 Mahmudul Haque
 
-**Software Engineer @ Frontier Semiconductor**
+**Software Engineer @ Frontier Semiconductor** | Problem Solver | Algorithm Enthusiast
 
-Passionate problem solver with expertise in **C++** and a strong foundation in competitive programming. I specialize in software engineering, system design, and algorithm optimization.Hi, I’m @mhtafhim
-- 🏫 CS Student 
-- 👀 I’m interested in Tech
-- 👨‍💻 I’m currently doing research on Reinforcement Learning...
-- 📫 You can reach me on facebook.com/mhtafhim
+---
 
+### 📍 About Me
+Passionate software engineer with expertise in **C++** and a strong foundation in **data structures**, **algorithms**, and **system design**. Specialized in performance optimization, competitive programming, and semiconductor software solutions.
 
-## 🔗 Connect With Me
+---
+
+### 🔗 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mh-tafhim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:mahmudulhoquetafhim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://mhtafhim.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://mhtafhim.github.io/cv">
-    <img src="https://img.shields.io/badge/Download%20CV-red?style=for-the-badge&logo=adobe&logoColor=white" alt="CV">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mh-tafhim/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhtafhim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mhtafhim.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhoquetafhim@gmail.com)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+### 📄 Curriculum Vitae
 
-**Software Engineer @ Frontier Semiconductor**
-- Developing high-performance systems in **C++**
-- Problem-solving and system optimization
-- Contributing to semiconductor software solutions
-
----
-
-## 🎯 Skills & Expertise
-
-- **Languages:** C++ (Primary), C, Python
-- **Core Competencies:** Problem Solving, Algorithms, System Design, Performance Optimization
-- **Experience:** Competitive Programming, Software Engineering
-
----
-
-## 🏆 Background
-
-- **Competitive Programming Enthusiast** - Early career focus on algorithm development and problem-solving
-- **Problem Solver** - Strong analytical and debugging skills
-- Continuous learner with passion for cutting-edge technologies
-
----
-
-## 📊 GitHub Statistics
 <div align="center">
 
+[![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://mhtafhim.github.io/cv)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mhtafhim.github.io/cv/MahmudulHaque_CV.pdf)
+
+</div>
+
+---
+
+### 💼 Current Role
+**Software Engineer @ Frontier Semiconductor** *(Nov 2025 - Present)*
+- Developing high-performance systems in C++ and MFC
+- Semiconductor software solutions
+
+---
+
+### 🛠️ Technical Stack
+
+**Languages:** C/C++ • Java • Python • JavaScript
+
+**Databases:** MySQL • MSSQL • Firebase
+
+**Cloud & Tools:** AWS (EC2, S3) • Git • Postman
+
+**Specializations:** Data Structures • Algorithms • OOP • REST APIs • Linux CLI
+
+**AI/ML:** NumPy • Pandas • Scikit-learn • PyTorch • Keras • PySpark
+
+---
+
+### 🎓 Education
+**BSc in Computer Science & Engineering**
+*Ahsanullah University of Science and Technology* (Jun 2021 - Jun 2025)
+- GPA: 3.719/4.00
+- Coursework: Data Structures, Algorithms, Cloud Computing, Data Analytics
+
+<!-- ---
+
+### 🏆 Competitive Programming
+
+| Platform | Achievement | Profile |
+|----------|-------------|---------|
+| **LeetCode** | 120+ Problems Solved | [View](https://leetcode.com/u/mahmudulhoquetafhim) |
+| **CodeChef** | 3-Star (Rating: 1542) | [View](https://www.codechef.com/users/mhtafhim) |
+| **Codeforces** | Pupil (Rating: 1263) | [View](https://codeforces.com/profile/depressed_kiddo) |
+| **Others** | 700+ Problems Solved | [View](https://github.com/mhtafhim/Messy-Stuffs) | -->
+
+
+---
+
+### 🏅 Achievements
+
+- 🥇 **1st Place** — Intra AUST Programming Contest (Fall 2022) — 100+ teams
+- 🥇 **1st Place** — Intra AUST Programming Contest (Spring 2023) — 100+ teams
+- 🎖️ **Khondaker Ahmed Muktadir & Mosammat Khodeza Begum Scholarship** — Only 2 students awarded
+- 🎓 **100% Full-Funded Scholarship** — Undergraduate degree (Top 3% recipients)
+- 📊 **NUMO 2023** — National Undergraduate Mathematics Olympiad Participant
+
+---
+
+### 🔬 Research & Innovation
+
+**Deep Reinforcement Learning for Intelligent Transportation Systems**
+- Developed intelligent traffic management system using DRL to optimize urban vehicle speeds
+- Implemented & benchmarked Deep Q-Network (DQN) and Deep Transformer Q-Network (DTQN) agents
+- DTQN model outperformed baseline by 15%+ through temporal-aware routing optimization
+
+---
+
+### 🎪 Extracurricular Leadership
+
+- **Organizer** — AUST CSE Carnival 4.0
+- **Executive Member** — AUST Programming and Informatics Club
+- **Head of Organizing Panel** — AUST Inter University Programming Contest 2025
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhtafhim&theme=vision_friendly_dark)
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhtafhim&theme=dracula&card_width=700)](https://git.io/streak-stats)
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
-
-<!---
-mhtafhim/mhtafhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
