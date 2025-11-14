@@ -17,19 +17,10 @@ Passionate software engineer with expertise in **C++** and a strong foundation i
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhtafhim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mhtafhim.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhoquetafhim@gmail.com)
-
-</div>
-
----
-
-### 📄 Curriculum Vitae
-
-<div align="center">
-
 [![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://mhtafhim.github.io/cv)
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mhtafhim.github.io/cv/MahmudulHaque_CV.pdf)
 
 </div>
+
 
 ---
 
