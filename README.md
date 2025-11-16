@@ -20,9 +20,9 @@ Software engineer with expertise in **C++** and a strong foundation in **data st
 [![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://mhtafhim.github.io/cv)
 
 </div>
-
----
-
+<!-- 
+--- -->
+<!-- 
 ### 💼 Current Role
 **Software Engineer @ Frontier Semiconductor** *(Nov 2025 - Present)*
 - Developing high-performance systems in C++ and MFC
@@ -48,7 +48,7 @@ Software engineer with expertise in **C++** and a strong foundation in **data st
 **BSc in Computer Science & Engineering**
 *Ahsanullah University of Science and Technology* (Jun 2021 - Jun 2025)
 - GPA: 3.719/4.00
-- Coursework: Data Structures, Algorithms, Cloud Computing, Data Analytics
+- Coursework: Data Structures, Algorithms, Cloud Computing, Data Analytics -->
 
 <!-- ---
 
@@ -63,7 +63,7 @@ Software engineer with expertise in **C++** and a strong foundation in **data st
 
 
 ---
-
+<!-- 
 ### 🏅 Achievements
 
 - 🥇 **1st Place** — Intra AUST Programming Contest (Fall 2022) — 100+ teams
@@ -89,7 +89,7 @@ Software engineer with expertise in **C++** and a strong foundation in **data st
 - **Executive Member** — AUST Programming and Informatics Club
 - **Head of Organizing Panel** — AUST Inter University Programming Contest 2025
 
----
+--- -->
 
 ### 📈 GitHub Statistics
 
