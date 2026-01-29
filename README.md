@@ -17,7 +17,7 @@ Software engineer with expertise in **C++** and a strong foundation in **data st
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhtafhim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mhtafhim.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhoquetafhim@gmail.com)
-[![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://mhtafhim.github.io/cv)
+[![View CV](https://img.shields.io/badge/View%20CV-Online-4B0082?style=for-the-badge&logo=googledocs&logoColor=white)](https://https://drive.google.com/file/d/1KDCEamrHv8hTSGbNtO-LnxwRFsAMmC07/view?usp=sharing)
 
 </div>
 <!-- 
